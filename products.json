@@ -1,0 +1,17 @@
+{
+  "tylenol": {
+    "name": "타이레놀 (제품 세부명 확정 필요)",
+    "face_order": ["front", "right", "back", "left"],
+    "targets": {}
+  },
+  "gevorin": {
+    "name": "게보린 (제품 세부명 확정 필요)",
+    "face_order": ["front", "right", "back", "left"],
+    "targets": {}
+  },
+  "third_product": {
+    "name": "세 번째 의약품 (미정)",
+    "face_order": ["front", "right", "back", "left"],
+    "targets": {}
+  }
+}
